@@ -10,14 +10,14 @@
 const int LED = 12; // led pin address.
 
 void setup () {
-	pinMode(12,  OUTPUT); // setting led pin, output mode.
-  digitalWrite(12, HIGH); // write high(1) for initial value.
+  pinMode(LED,  OUTPUT); // setting led pin, output mode.
+  digitalWrite(LED, HIGH); // write high(1) for initial value.
 }
 
 
 void loop () {
-  digitalWrite(12, HIGH); // writing high(1)
+  digitalWrite(LED, HIGH); // writing high(1)
   delay(1000);  // delay 1 sec.
-  digitalWrite(12, LOW); // writing low(0)
+  digitalWrite(LED, LOW); // writing low(0)
   delay(1000);  // delay 1 sec.
 }

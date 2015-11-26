@@ -7,7 +7,8 @@ arduino examples and modelling with fritzing
 ```
 	|-- examples
 		|-- 00-led-blink
-			|-- led-blink.ino
+			|-- led-blink
+				|-- led-blink.ino
 			|-- README.md
 			|-- assests
 				|-- .gitkeep

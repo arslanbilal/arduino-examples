@@ -6,11 +6,11 @@ blinks led when pressed push button.
 
 This image made with [Fritzing].
 
-#####used pieces:
+####pieces that used:
 1. arduino (uno/nano/mini/mega..)
 2. 1 x 220 Ω resistor
 3. 1 x 10k Ω resistor
-3. jumper wire
+3. jumper wires
 4. led
 5. push button
 6. breadboard

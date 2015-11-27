@@ -11,7 +11,7 @@ arduino examples and modelling with fritzing
 				|-- led-blink.ino
 			|-- README.md
 			|-- assests
-				|-- .gitkeep
+				|-- led-blink.png
 		|-- 01-
 		...
 ```
@@ -19,7 +19,6 @@ arduino examples and modelling with fritzing
 ### LICENSE
 
 [The MIT License]
-
 
 
 [The MIT License]: https://github.com/arslanbilal/arduino-examples/blob/master/LICENSE

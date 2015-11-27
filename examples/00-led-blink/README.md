@@ -4,6 +4,8 @@ blinks led 1 second delayed.
 
 ![led-blink]
 
+This image made with [Fritzing].
+
 #####used pieces:
 1. arduino (uno/nano/mini/mega..)
 2. 1 x 220 Ω resistor

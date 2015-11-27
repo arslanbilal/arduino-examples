@@ -2,7 +2,7 @@
 
 arduino examples and modelling with fritzing
 
-####folder structure of project
+#####folder structure of project
 
 ```
 	|-- examples
@@ -15,3 +15,11 @@ arduino examples and modelling with fritzing
 		|-- 01-
 		...
 ```
+
+### LICENSE
+
+[The MIT License]
+
+
+
+[The MIT License]: https://github.com/arslanbilal/arduino-examples/blob/master/LICENSE

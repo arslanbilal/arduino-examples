@@ -6,12 +6,12 @@ arduino examples and modelling with fritzing
 
 ```
 	|-- examples
-		|-- 00-led-blink
-			|-- led-blink
-				|-- led-blink.ino
+		|-- 00-project-name
+			|-- project-name
+				|-- project-name.ino
 			|-- README.md
 			|-- assests
-				|-- led-blink.png
+				|-- project-name.png
 		|-- 01-
 		...
 ```

@@ -1,8 +1,8 @@
-# led-blink
+# led
 
 blinks led 1 second delayed.
 
-![led-blink]
+![led]
 
 This image made with [Fritzing].
 
@@ -14,5 +14,5 @@ This image made with [Fritzing].
 5. breadboard
 
 
-[led-blink]: https://github.com/arslanbilal/arduino-examples/raw/master/examples/00-led-blink/assets/led-blink.png "led blink image"
+[led]: https://github.com/arslanbilal/arduino-examples/raw/master/examples/00-led/assets/led.png "led image"
 [Fritzing]: http://fritzing.org/home/

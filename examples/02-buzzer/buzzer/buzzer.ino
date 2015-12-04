@@ -10,9 +10,12 @@
 const int BUZZER = 12; // buzzer pin address.
 
 void setup () {
+  // run once, when the sketch starts
   pinMode(BUZZER,  OUTPUT); // setting buzzer pin, output mode.
   digitalWrite(BUZZER, HIGH); // write high(1) for initial value.
 }
 
 void loop () {
+  // run over and over again
 }
+

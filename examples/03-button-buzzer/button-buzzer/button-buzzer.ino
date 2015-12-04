@@ -12,12 +12,14 @@ const int BUTTON = 10; // button pin address.
 int buttonStatus = 0; // hold button state (0/1).
 
 void setup () {
+  // run once, when the sketch starts
   pinMode(BUZZER,  OUTPUT); // setting buzzer pin, output mode.
   pinMode(BUTTON, INPUT); // setting button pin, input mode.
   digitalWrite(BUTTON, buttonStatus); // write low(0) for initial value.
 }
 
 void loop () {
+  // run over and over again
   buttonStatus = digitalRead(BUTTON); // digitally read value on bitton pin.
   
   if (buttonStatus) {  // if button press high, write high(1).
@@ -26,3 +28,4 @@ void loop () {
     digitalWrite(BUZZER, buttonStatus);
   }
 }
+

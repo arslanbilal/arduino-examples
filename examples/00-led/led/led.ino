@@ -10,14 +10,17 @@
 const int LED = 12; // led pin address.
 
 void setup () {
+  // run once, when the sketch starts
   pinMode(LED,  OUTPUT); // setting led pin, output mode.
   digitalWrite(LED, HIGH); // write high(1) for initial value.
 }
 
 
 void loop () {
+  // run over and over again
   digitalWrite(LED, HIGH); // writing high(1)
   delay(1000);  // delay 1 sec.
   digitalWrite(LED, LOW); // writing low(0)
   delay(1000);  // delay 1 sec.
 }
+

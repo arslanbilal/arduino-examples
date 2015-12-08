@@ -14,7 +14,6 @@ This image made with [Fritzing].
 4. breadboard
 
 
-[potentiometer]: https://github.com/arslanbilal/arduino-examples/raw/master/examples/05-potentiometer/assets/potentiometer "potentiometer image"
-[potentiometer-output]: https://github.com/arslanbilal/arduino-examples/raw/master/examples/05-potentiometer/assets/potentiometer-output "potentiometer output image"
-
+[potentiometer]: https://github.com/arslanbilal/arduino-examples/raw/master/examples/05-potentiometer/assets/potentiometer.png "potentiometer image"
+[potentiometer-output]: https://github.com/arslanbilal/arduino-examples/raw/master/examples/05-potentiometer/assets/potentiometer-output.png "potentiometer output image"
 [Fritzing]: http://fritzing.org/home/

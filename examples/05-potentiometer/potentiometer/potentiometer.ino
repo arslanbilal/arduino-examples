@@ -1,6 +1,6 @@
 //
 //  arduino-examples
-//  serial-monitor.ino
+//  potentiometer.ino
 //
 //  Created by Bilal Arslan on 04/12/15.
 //  Copyright (c) 2015 Bilal Arslan. All rights reserved.

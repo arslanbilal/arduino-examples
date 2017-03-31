@@ -6,7 +6,7 @@ getting value of potansiyometer and turning the buzzer sound up or down with the
 
 This image made with [Fritzing].
 
-####pieces that used:
+#### pieces that used:
 1. arduino (uno/nano/mini/mega..)
 2. jumper wires
 3. potentiometer

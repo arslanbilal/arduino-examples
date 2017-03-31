@@ -6,7 +6,7 @@ blinks led 1 second delayed.
 
 This image made with [Fritzing].
 
-####pieces that used:
+#### pieces that used:
 1. arduino (uno/nano/mini/mega..)
 2. 1 x 220 Ω resistor
 3. jumper wires

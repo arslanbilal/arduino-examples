@@ -6,7 +6,7 @@ getting value of potansiyometer and turning the led on with the value.
 
 This image made with [Fritzing].
 
-####pieces that used:
+#### pieces that used:
 1. arduino (uno/nano/mini/mega..)
 2. jumper wires
 3. potentiometer

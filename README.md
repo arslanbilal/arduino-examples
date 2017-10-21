@@ -1,8 +1,19 @@
-# arduino-examples
+## Arduino Examples
 
-arduino examples and modelling with fritzing
+Arduino examples and modelling with fritzing
 
-##### folder structure of project
+### Example List
+
+- 00-led
+- 01-button-led
+- 02-buzzer
+- 03-button-buzzer
+- 04-serial-monitor
+- 05-potentiometer
+- 06-potentiometer-led
+- 07-potentiometer-buzzer
+
+#### Folder Structure of Project
 
 ```
 	|-- examples
@@ -16,9 +27,8 @@ arduino examples and modelling with fritzing
 		...
 ```
 
-### LICENSE
+#### LICENSE
 
 [The MIT License]
-
 
 [The MIT License]: https://github.com/arslanbilal/arduino-examples/blob/master/LICENSE
